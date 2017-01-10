@@ -40,7 +40,7 @@ npm install --save suggested-name
 
 ## Changelog
 ### 0.1.0 (2016-01-10)
-- initial relase
+- initial release
 
 ## Credits
 This project was created using [webpack-library-starter](http://github.com/krasimir/webpack-library-starter).
