@@ -39,7 +39,7 @@ npm install --save suggested-name
 * `npm run test` - runs the tests
 
 ## Changelog
-### 0.1.0 (2016-01-10)
+### 0.1.0 (2017-01-10)
 - initial release
 
 ## Credits
