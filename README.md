@@ -1,4 +1,4 @@
-# Suggested name [![Build Status](https://travis-ci.org/platan/suggested-name.svg?branch=master)](https://travis-ci.org/platan/suggested-name)
+# Suggested name [![npm version](https://badge.fury.io/js/suggested-name.svg)](https://badge.fury.io/js/suggested-name) [![Build Status](https://travis-ci.org/platan/suggested-name.svg?branch=master)](https://travis-ci.org/platan/suggested-name)
 JavaScript library for suggesting common name. Suggested name is composed of words occurring in all given names.
 
 names (input)|suggested name (output)
