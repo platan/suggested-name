@@ -34,9 +34,9 @@ npm install --save suggested-name
 ## Features
 
 ## Scripts
-* `npm run build` - produces production version under the `lib` folder
-* `npm run dev` - produces development version and runs a watcher
-* `npm run test` - runs the tests
+* `yarn build` - produces production version under the `lib` folder
+* `yarn dev` - produces development version and runs a watcher
+* `yarn test` - runs the tests
 
 ## Changelog
 ### 0.1.0 (2017-01-10)
