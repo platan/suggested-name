@@ -37,7 +37,7 @@
     "eslint-loader": "^3.0.3",
     "jsdom": "11.11.0",
     "jsdom-global": "3.0.2",
-    "mocha": "^4.0.1",
+    "mocha": "^6.2.2",
     "uglifyjs-webpack-plugin": "^1.2.7",
     "webpack": "^4.12.2",
     "webpack-cli": "^3.0.8",
