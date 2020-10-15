@@ -1351,9 +1351,9 @@ babel-loader@^8.1.0:
     schema-utils "^2.6.5"
 
 babel-plugin-add-module-exports@^1.0.2:
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/babel-plugin-add-module-exports/-/babel-plugin-add-module-exports-1.0.3.tgz#21ae4c5bd3505f973a26cf757b762e63384b6d9b"
-  integrity sha512-+80YrR1WjNDDNc1MFhaYdaRZf8AzPJ9CFhJcvtCbIcmmmt+zNdV1f2MWKUUf7L/ApL1O5KpYaUpacfB5e+yclg==
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/babel-plugin-add-module-exports/-/babel-plugin-add-module-exports-1.0.4.tgz#6caa4ddbe1f578c6a5264d4d3e6c8a2720a7ca2b"
+  integrity sha512-g+8yxHUZ60RcyaUpfNzy56OtWW+x9cyEe9j+CranqLiqbju2yf/Cy6ZtYK40EZxtrdHllzlVZgLmcOUCTlJ7Jg==
 
 babel-plugin-dynamic-import-node@^2.3.3:
   version "2.3.3"
